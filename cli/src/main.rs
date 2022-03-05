@@ -1,4 +1,4 @@
-use clap::{ArgGroup, CommandFactory, ErrorKind, Parser};
+use clap::{CommandFactory, ErrorKind, Parser};
 use expand_braille::{paint, BrailleGlyph};
 
 use std::{
